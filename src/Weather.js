@@ -40,7 +40,7 @@ export default function Weather() {
       <div>
         {Weather}
         <ul className="showMe">
-            <li><strong>{city}</strong></li>
+          <li><strong>{city}</strong></li>
           <li>Temperature :{Math.round(temperature)} °C</li>
           <li>Wind : {Math.round(wind)} km/h</li>
           <li>Description :{description}</li>

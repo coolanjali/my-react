@@ -7,6 +7,7 @@ function App() {
     <div className='App'>
         <h1>Find the weather of the City🔎🔎</h1>
       <Weather/>
+      <a href ="https://github.com/coolanjali/my-react">Github</a>
       </div>
     
   );

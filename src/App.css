@@ -1,5 +1,21 @@
 .App {
   text-align: center;
+  background: #61dafb;
+  padding: 10px 20px 10px 20px;
+  margin: 20px ;
+  border-radius: 20px;
+  height: 80px;
+}
+body{
+  background: aquamarine;
+  height: 100px;
+}
+#showMe{
+  list-style: none;
+}
+.Weather{
+  background: #c0dae1;
+  list-style: none;
 }
 
 .App-logo {
